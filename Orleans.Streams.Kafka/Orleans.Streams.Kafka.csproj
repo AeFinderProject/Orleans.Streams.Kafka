@@ -2,6 +2,9 @@
   <PropertyGroup>
     <Description>Orleans streaming provider for Kafka.</Description>
     <PackageTags>orleans kafka streams providers streamprovider confluent</PackageTags>
+    <PackageId>AeFinder.Orleans.Streams.Kafka</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RootNamespace>Orleans.Streams.Kafka</RootNamespace>
   </PropertyGroup>
   
   <!-- vendor packages -->
